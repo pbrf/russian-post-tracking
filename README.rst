@@ -12,7 +12,7 @@ Example
 
 .. code-block:: python
 
-    import russian_post_tracking.soap from RussianPostTracking
+    from russian_post_tracking.soap import RussianPostTracking
 
     barcode = 'bardcode'
 
